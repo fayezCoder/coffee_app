@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
         Padding(
           padding: const EdgeInsets.only(left: 21, top: 62, bottom: 13),
           child: Text(
-            'Menu  غلا كوفي',
+            "Menu",
             style: TextStyle(
                 color: secondaryColor, fontSize: 48, fontFamily: mainFont),
           ),

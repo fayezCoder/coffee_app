@@ -68,14 +68,14 @@ class _SplashScreenState extends State<SplashScreen>
                     RichText(
                         text: TextSpan(children: [
                       TextSpan(
-                          text: 'غلا  ',
+                          text: 'Ghla ',
                           style: TextStyle(
                               color: mainColor,
                               fontSize: 25,
                               fontWeight: FontWeight.bold,
                               fontFamily: secondaryFont)),
                       TextSpan(
-                          text: 'كوفي',
+                          text: "Coffee",
                           style: TextStyle(
                               color: Color(0xFFb98068),
                               fontSize: 25,
